@@ -8,6 +8,8 @@ export default function Home() {
   'another ytest'
 
   return (
-    <div>this is main page rfefrerf</div>
+    <div>this is main page rfefrerf
+      ferferf
+    </div>
   )
 }
